@@ -1,0 +1,5 @@
+Throughout these project I focused on solving problems relating to efficient data organization and manipulating that data, whether it be loading it, adding new data, or even removing the data. I examined the runtime and memory usage of different data structures
+during the course which taught me how to select the correct data structure depending on certain variables for the project, which showed us the pros and cons of using linked lists, hash tables and binary search trees for each application.
+To approach solving these problems I always weighed the benefits compared to the downsides which was often speed/performance to make my decisions on topics such as an arrays or trees. There were multiple challenges along the way such as 
+optimizing my sorting functions to handle two different size datasets which we were given. To tackle an issue like this i focused on debugging first, then refining the logic and making sure I was using industry best practices. 
+Through this course I have significantly improved my ability to write clean efficient code and how to utilize and manipulate data sets. 
